@@ -1,0 +1,11 @@
+{
+  "name": "David",
+  "userImage": "https://placeimg.com/100/100/tech",
+  "postImage": "https://placeimg.com/640/480/tech",
+  "likes": 5,
+  "date": "July 25",
+  "liked": false,
+  "marked": false,
+  "content": "더보기로 요청한 1번째 게시물입니다.",
+  "filter": "perpetua"
+}
